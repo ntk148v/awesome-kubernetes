@@ -158,6 +158,7 @@ Installers
 * [Kubicorn](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
+* [Kube-ansible](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
 
 Main Resources
 =======================================================================
@@ -288,6 +289,7 @@ Interactive Learning Environments
 *Learn Kubernetes using an interactive environment without requiring downloads or configuration*
 
 * [Katacoda](https://www.katacoda.com/courses/kubernetes)
+* [Play with Kubernetes](http://labs.play-with-k8s.com/)
 * [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 
 
@@ -521,6 +523,7 @@ Projects
 
 ## Secret generation and management
 
+* [Vault auth plugin backend: Kubernetes](https://www.vaultproject.io/docs/auth/kubernetes.html)
 * [Vault controller](https://github.com/kelseyhightower/vault-controller)
 * [kube-lego](https://github.com/jetstack/kube-lego)
 * [k8sec](https://github.com/dtan4/k8sec)
@@ -570,7 +573,7 @@ Projects
 * [Konfd](https://github.com/kelseyhightower/konfd)
 * [kenv](https://github.com/thisendout/kenv)
 * [kubediff](https://github.com/weaveworks/kubediff)
-* [Habitat](https://www.habitat.sh/docs/container-orchestration/)
+* [Habitat](https://www.habitat.sh/docs/best-practices/#kubernetes)
 * [Puppet](https://forge.puppet.com/garethr/kubernetes/readme)
 * [Ansible](https://docs.ansible.com/ansible/kubernetes_module.html)
 * [Saltstack](https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
