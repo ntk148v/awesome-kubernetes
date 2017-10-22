@@ -273,7 +273,7 @@ Managed Kubernetes
 
    *Kubernetes Platform as a Service providers*
 
-  - [Deis Workflow](https://deis.com/)
+  - [Deis Workflow](https://deis.com/) - [Deprecated Public Releases](https://deis.com/blog/2017/deis-workflow-final-release/)
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -359,7 +359,7 @@ Projects
 
 * [Argo](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
-* [Kubernetes Cluster Federation (previously Ubernetes)](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation/federation.md) - [Phase 1](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation/federation-phase-1.md)
+* [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [kmachine](https://github.com/skippbox/kmachine)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [KubeSpray](https://github.com/kubespray)
@@ -371,6 +371,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](https://www.telepresence.io) Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition on Kubernetes.
+* [Ambassador](https://www.getambassador.io) Kubernetes-native API Gateway built on the Envoy Proxy
 
 ## Package Managers
 
@@ -585,6 +586,7 @@ Projects
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Twistlock](https://www.twistlock.com/)
 * [Sysdig Falco](http://www.sysdig.org/falco/)
+* [Sysdig Secure](https://www.sysdig.com/product/secure)
 
 
 
