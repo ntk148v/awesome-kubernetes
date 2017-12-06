@@ -242,8 +242,8 @@ Useful Articles
 Managed Kubernetes
 =======================================================================
 
-  - [Platform9](https://github.com/platform9)
-  - [Gravitational](https://github.com/gravitational)
+  - [Platform9](http://platform9.com)
+  - [Gravitational](https://gravitational.com/)
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
@@ -264,7 +264,7 @@ Managed Kubernetes
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
-  - [Kubermatic](https://kubermatic.io/)
+  - [Kubermatic](http://www.loodse.com/)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -461,6 +461,7 @@ Projects
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
+* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni](https://github.com/zalando/patroni).
 * [Kafka](https://github.com/krallistic/kafka-operator)
 * [TensorFlow jobs Operator](https://github.com/tensorflow/k8s)
 
@@ -517,6 +518,7 @@ Projects
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
+* [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 
 ## Service mesh
 
@@ -525,6 +527,7 @@ Projects
 * [Linkerd](https://linkerd.io/getting-started/k8s/)
 * [Amalgam8](http://www.amalgam8.io/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
+* [Conduit](https://conduit.io/)
 
 ## RPC
 
@@ -782,7 +785,7 @@ Conferences
 
 * [Kubecon](http://events.linuxfoundation.org/events/kubecon)
 * [Container Camp](https://container.camp/)
-* [GCP Next](https://cloudplatformonline.com/Next2016.html)
+* [GCP Next](https://cloudnext.withgoogle.com/)
 * [Docker Con](http://dockercon.com)
 * [Devoxx](http://devoxx.com)
 
