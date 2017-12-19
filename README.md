@@ -582,7 +582,7 @@ Projects
 
 ## Mobile applications
 
-* [Cabin](https://github.com/skippbox/cabin-issues)
+* [Cabin](https://github.com/bitnami/cabin)
 * [Cockpit](http://cockpit-project.org/guide/latest/feature-kubernetes.html)
 
 ## API/CLI adaptors
@@ -743,6 +743,7 @@ Videos
 * [Kubernetes: The Journey So Far - Greg DeMichillie](https://youtu.be/6a2Nirr8cI0) by [Greg DeMichillie](https://twitter.com/gregde)
 * [DevNation 2015 - Paul Bakker - Kubernetes: Beyond the basics](https://youtu.be/MuazGHiiGmA) by [Paul Bakker](https://twitter.com/pbakker)
 * [Kubernetes-Defined Monitoring](https://www.youtube.com/watch?v=ncSn3_9bfIQ)
+* [Testing Distributed Software on Kubernetes with PowerfulSeal at Kubecon 2017 Austin](https://youtu.be/00BMn0UjsG4) by [Mikolaj Pawlikowski](https://twitter.com/mikopawlikowski)
 
 
 Interesting Twitter Accounts
@@ -761,7 +762,7 @@ Interesting Twitter Accounts
 * [DevOps Summit](https://twitter.com/DevOpsSummit)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [KubeFacts](https://twitter.com/kubefacts)
-* [Skippbox](https://twitter.com/skippbox)
+* [Skippbox](https://twitter.com/skippbox) - Acquired by [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 
