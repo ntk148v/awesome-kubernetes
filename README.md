@@ -92,6 +92,7 @@ Menu
 * [Service mesh](#service-mesh)
 * [RPC](#rpc)
 * [Secret generation and management](#secret-generation-and-management)
+* [Web applications](#web-applications)
 * [Desktop applications](#desktop-applications)
 * [Mobile applications](#mobile-applications)
 * [API/CLI adaptors](#apicli-adaptors)
@@ -581,6 +582,10 @@ Projects
 * [kubernetes-vault](https://github.com/Boostport/kubernetes-vault)
 * [kubesec](https://github.com/shyiko/kubesec) - Secure Secret management
 
+## Web applications
+
+* [Kubernator](https://github.com/smpio/kubernator)
+
 ## Desktop applications
 
 * [Kubernetic](https://kubernetic.com/)
@@ -789,6 +794,7 @@ Amazing People
 * [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
 * [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
 * [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
+* [Ihor Dvoretskyi](https://twitter.com/idvoretskyi), Developer Advocate at Cloud Native Computing Foundation
 * [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
 * [Joe Beda](https://twitter.com/jbeda), Founder and CTO at Heptio
 * [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
@@ -817,12 +823,14 @@ Meetup Groups
 Connecting with Kubernetes
 =======================================================================
 
+* [Blog](http://blog.kubernetes.io/)
 * [Freenode](http://webchat.freenode.net/?channels=google-containers)
 * [Twitter](https://twitter.com/kubernetesio)
 * [Google +](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 * [Slack](http://slack.k8s.io/)
-* [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
+* [Mailing List (user discussion and Q&A)](https://groups.google.com/forum/#!forum/kubernetes-users)
+* [Mailing List (developer/contributor discussion)](https://groups.google.com/forum/#!forum/kubernetes-dev)
 * [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community](https://github.com/kubernetes/community)
