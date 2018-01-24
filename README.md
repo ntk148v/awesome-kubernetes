@@ -533,6 +533,7 @@ Projects
 
 ## Database
 
+* [Apache Ignite](https://apacheignite.readme.io/docs/kubernetes-deployment) - Memory-centric distributed database, caching, processing platform
 * [CockroachDB](http://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
 * [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
@@ -565,15 +566,14 @@ Projects
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
-* [Istio](http://istio.io/)
+* [Amalgam8](http://github.com/amalgam8) - Acquired by [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
-* [Amalgam8](http://www.amalgam8.io/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
 * [Conduit](http://conduit.io/)
 
 ## RPC
 
-* [Grpc](http://grpc.io)
+* [gRPC](http://grpc.io)
 * [Micro](https://github.com/micro/kubernetes)
 
 
