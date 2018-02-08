@@ -382,6 +382,7 @@ Persistent Volume Providers
 * [QuoByte](http://www.quobyte.com/)
 * [Kube-Aliyun](https://github.com/kubeup/kube-aliyun)
 * [Portworx](http://portworx.com/)
+* [Stork](https://github.com/libopenstorage/stork) 
 * [OpenEBS](http://github.com/openebs/openebs/)
 * [StorageOS](http://storageos.com)
 
@@ -555,13 +556,13 @@ Projects
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [Cilium](https://github.com/cilium/cilium)
 * [Linen](https://github.com/John-Lin/linen-cni)
-* [Multu](https://github.com/Intel-Corp/multus-cni)
 * [CNI-Genie](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - Multi-homed pod cni 
 
 ## Service mesh
 
@@ -684,7 +685,7 @@ Projects
 ## Operating System
 
 * [CoreOS](http://coreos.com)
-* [Kurma](http://kurma.io)
+* [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 
 ## YAML/JSON Config
